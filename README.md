@@ -1,2 +1,1 @@
-# SamingaSAGA
-# ionic-ts-es6-modules
+# Ionic with TypeScript, ES6, and Modules
