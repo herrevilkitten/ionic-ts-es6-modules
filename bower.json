@@ -1,0 +1,14 @@
+{
+  "name": "HelloIonic",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.1.0",
+    "ionic-service-core": "~0.1.10",
+    "ngCordova": "~0.1.20-alpha",
+    "phonegap-googlemaps-plugin": "https://github.com/wf9a5m75/phonegap-googlemaps-plugin"
+  },
+  "dependencies": {
+    "ionic-service-core": "~0.1.10",
+    "es6-module-loader": "~0.17.6"
+  }
+}
